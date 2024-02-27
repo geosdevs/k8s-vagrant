@@ -1,0 +1,6 @@
+box
+!box/*.json
+.vagrant
+*.box
+kubeconfig
+.DS_Store
